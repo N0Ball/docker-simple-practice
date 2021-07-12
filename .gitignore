@@ -1,2 +1,5 @@
 # python3 env
 .venv/
+
+# vscode
+.vscode/
