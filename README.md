@@ -29,7 +29,7 @@ run docker in background
 
 remove your container after stop
 
-### p <source>:<destination>
+### p `<source>:<destination>`
 
 map your port from
 - source
